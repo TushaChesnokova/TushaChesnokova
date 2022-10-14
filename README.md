@@ -1,4 +1,4 @@
-# Hi, my name is Anastasiia Chesnokova
+## Hi, my name is Anastasiia Chesnokova
 I'm HSE student. On this page you can see my school, university projects and projects from internships.
 
 <!--

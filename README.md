@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Anastasiia! I'm HSE student. On this page you can see my school, university projects and projects from internships.
 
 <!--
 **TushaChesnokova/TushaChesnokova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
